@@ -1,1 +1,0 @@
-This is the library to read and write to shared memory. It is required by the asfault wrapper to talk to DeepDrive
